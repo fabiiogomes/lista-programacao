@@ -21,6 +21,14 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 * [Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw) - Canal do YouTube com vídeo-aulas.
 * [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Canal do YouTube com vídeo-aulas.
 
+## Ferramentas
+
+* [DevDocs](http://devdocs.io/) - Possui várias documentações em uma interface rápida, organizada e pesquisável.
+* [repl.it](https://repl.it) - Fornece um ambiente online de programação interativo para várias linguagens de programação.
+* [Scratch](http://www.scratchbrasil.net.br/) - Permite que qualquer um crie suas próprias histórias interativas, jogos e animações.
+* [Programaê](http://programae.org.br/) - Auxilia tanto alunos que querem aprender como professores que querem ensinar.
+* [SoloLearn](https://play.google.com/store/apps/dev?id=8092475488373003589) Aplicativo móvel para aprender a programar.
+
 ## Créditos
 
 * Autores: [@fernandojunior](https://github.com/fernandojunior/),  [@leonardoads](https://github.com/leonardoads/) e [outros](https://github.com/fernandojunior/programacao/graphs/contributors)
