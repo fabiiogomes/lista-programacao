@@ -24,6 +24,8 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 
 ## Ferramentas
 
+*Lista de ferramentas online para ajudar a por em prática os conceitos de programação.*
+
 * [DevDocs](http://devdocs.io/) - Possui várias documentações em uma interface rápida, organizada e pesquisável.
 * [repl.it](https://repl.it) - Fornece um ambiente online de programação interativo para várias linguagens de programação.
 * [Scratch](http://www.scratchbrasil.net.br/) - Permite que qualquer um crie suas próprias histórias interativas, jogos e animações.
