@@ -7,6 +7,7 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 - [Programação](#programação)
     - [Cursos](#cursos)
     - [Ferramentas](#ferramentas)
+    - [Filmes](#filmes)
     - [Créditos](#créditos)
 
 ## Cursos
