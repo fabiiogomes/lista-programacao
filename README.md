@@ -32,6 +32,22 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 * [Programaê](http://programae.org.br/) - Auxilia tanto alunos que querem aprender como professores que querem ensinar.
 * [SoloLearn](https://play.google.com/store/apps/dev?id=8092475488373003589) Aplicativo móvel para aprender a programar.
 
+## Filmes
+*Lista de filmes para inspirar a programar.*
+
+* [A Rede Social (2010)](http://www.adorocinema.com/filmes/filme-147912/)
+* [Ameaça Virtual (2000)](http://www.adorocinema.com/filmes/filme-27062/)
+* [Chappie (2015)](http://www.adorocinema.com/filmes/filme-189702/)
+* [Ex_Machina: Instinto Artificial (2015)](http://www.adorocinema.com/filmes/filme-219931/)
+* [Invasores - Nenhum Sistema Está à Salvo (2015)](http://www.adorocinema.com/filmes/filme-184748/)
+* [Jobs (2013)](http://www.adorocinema.com/filmes/filme-198187/)
+* [O jogo da Imitação (2015)](http://www.adorocinema.com/filmes/filme-198371/)
+* [Piratas da Informática (1999)](http://www.adorocinema.com/filmes/filme-133537/)
+* [Steve Jobs (2016)](http://www.adorocinema.com/filmes/filme-207616/)
+* [Steve Jobs - O Homem e A Máquina (2016)](http://www.adorocinema.com/filmes/filme-236253/)
+* [Transcendence - A Revolução (2014)](http://www.adorocinema.com/filmes/filme-214763/)
+
+
 ## Créditos
 
 * Autores: [@fernandojunior](https://github.com/fernandojunior/),  [@leonardoads](https://github.com/leonardoads/) e [outros](https://github.com/fernandojunior/programacao/graphs/contributors)
