@@ -6,12 +6,13 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 
 - [Programação](#programação)
     - [Cursos](#cursos)
+    - [Linguagens](#linguagens)
     - [Ferramentas](#ferramentas)
     - [Filmes](#filmes)
     - [Créditos](#créditos)
 
 ## Cursos
-*Lista de plataformas e canais de ensino online que oferecem cursos sobre programação.*
+*Plataformas e canais de ensino online que oferecem cursos sobre programação.*
 
 * [Code.org](https://br.code.org/) - Tem objetivo de divulgar e ensinar programação a pessoas de todas as idades.
 * [Code Academy](https://www.codecademy.com/pt-BR/) - Oferece aulas de codificação em diversas linguagens de programação.
@@ -23,9 +24,21 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 * [Ignorância Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw) - Canal do YouTube com vídeo-aulas.
 * [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Canal do YouTube com vídeo-aulas.
 
-## Ferramentas
+## Linguagens
+*[Listas incríveis](https://github.com/sindresorhus/awesome) de algumas [linguagens de programação](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o) conforme as [mais usadas](http://www.tiobe.com/tiobe_index) presentes em [Qual aprender primeiro?](http://tutano.trampos.co/8228-infografico-qual-linguagem-de-programacao-devo-aprender-primeiro/)*
 
-*Lista de ferramentas online para ajudar a por em prática os conceitos de programação.*
+* [Java](https://github.com/akullpp/awesome-java) - Interpretada orientada a objetos ([Wikipédia](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))).
+* [C](https://github.com/aleksandar-todorovic/awesome-c) - Compilada de propósito geral, estruturada, imperativa, procedural ([Wikipédia](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))).
+* [C++](https://github.com/fffaraz/awesome-cpp) - Compilada multi-paradigma e de uso geral ([Wikipédia](https://pt.wikipedia.org/wiki/C%2B%2B)).
+* C# - Interpretada multi-paradigma fortemente tipada ([Wikipédia](https://pt.wikipedia.org/wiki/C_Sharp)).
+* [Python](https://github.com/vinta/awesome-python) -  Alto nível, interpretada, de script, imperativa, orientada a objetos ([Wikipédia](https://pt.wikipedia.org/wiki/Python)).
+* [PHP](https://github.com/ziadoz/awesome-php) - Interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações ([Wikipédia](https://pt.wikipedia.org/wiki/PHP)).
+* [JavaScript](https://github.com/sorrycc/awesome-javascript) - Interpretada ([Wikipédia](https://pt.wikipedia.org/wiki/JavaScript)).
+* [Ruby](https://github.com/markets/awesome-ruby) - Interpretada multiparadigma, de tipagem dinâmica e forte ([Wikipédia](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o))).
+* Objective-C - Reflexiva orientada a objeto  ([Wikipédia](https://pt.wikipedia.org/wiki/Objective-C)).
+
+## Ferramentas
+*Ferramentas online para ajudar a por em prática os conceitos de programação.*
 
 * [DevDocs](http://devdocs.io/) - Possui várias documentações em uma interface rápida, organizada e pesquisável.
 * [repl.it](https://repl.it) - Fornece um ambiente online de programação interativo para várias linguagens de programação.
@@ -34,7 +47,7 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 * [SoloLearn](https://play.google.com/store/apps/dev?id=8092475488373003589) Aplicativo móvel para aprender a programar.
 
 ## Filmes
-*Lista de filmes para inspirar a programar.*
+*Filmes para inspirar a programar.*
 
 * [A Rede Social (2010)](http://www.adorocinema.com/filmes/filme-147912/)
 * [Ameaça Virtual (2000)](http://www.adorocinema.com/filmes/filme-27062/)
@@ -48,9 +61,10 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 * [Steve Jobs - O Homem e A Máquina (2016)](http://www.adorocinema.com/filmes/filme-236253/)
 * [Transcendence - A Revolução (2014)](http://www.adorocinema.com/filmes/filme-214763/)
 
-
 ## Créditos
 
 * Autores: [@fernandojunior](https://github.com/fernandojunior/),  [@leonardoads](https://github.com/leonardoads/) e [outros](https://github.com/fernandojunior/programacao/graphs/contributors)
 * GitHub: https://github.com/fernandojunior/programacao/
 * Free software: The MIT License
+
+Contribuições são bem-vindas!
