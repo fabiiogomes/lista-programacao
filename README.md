@@ -67,6 +67,14 @@
 * [Steve Jobs - O Homem e A Máquina (2016)](http://www.adorocinema.com/filmes/filme-236253/)
 * [Transcendence - A Revolução (2014)](http://www.adorocinema.com/filmes/filme-214763/)
 
+## Séries
+*Séries para inspirar a programar.*
+
+* [The IT Crowd (2006)](http://www.adorocinema.com/series/serie-3202/)
+* [Silicon Valley (2014)](http://www.adorocinema.com/series/serie-11701/)
+* [Mr. Robot (2015)](http://www.adorocinema.com/series/serie-17966/)
+* [Halt and Catch Fire (2014)](http://www.adorocinema.com/series/serie-11662/)
+
 ## Créditos
 
 * Autores: [@fernandojunior](https://github.com/fernandojunior/) e [@leonardoads](https://github.com/leonardoads/)
