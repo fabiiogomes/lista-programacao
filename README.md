@@ -1,12 +1,13 @@
 # Programação
 
-Lista de referências incríveis para auxiliar no aprendizado de programação, preferencialmente em **pt-BR**.
+Lista impressionante de referências para ajudar no aprendizado de programação, preferencialmente em **pt_BR**.
 
 ## Sumário
 
 - [Programação](#programação)
     - [Cursos](#cursos)
     - [Linguagens](#linguagens)
+    - [Livros](#livros)
     - [Ferramentas](#ferramentas)
     - [Filmes](#filmes)
     - [Créditos](#créditos)
@@ -25,7 +26,7 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 * [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Canal do YouTube com vídeo-aulas.
 
 ## Linguagens
-*[Listas incríveis](https://github.com/sindresorhus/awesome) de algumas [linguagens de programação](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o) conforme as [mais usadas](http://www.tiobe.com/tiobe_index) presentes em [Qual aprender primeiro?](http://tutano.trampos.co/8228-infografico-qual-linguagem-de-programacao-devo-aprender-primeiro/)*
+*[Listas impressionantes](https://github.com/sindresorhus/awesome) de algumas [linguagens de programação](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o) conforme as [mais usadas](http://www.tiobe.com/tiobe_index) presentes em [Qual aprender primeiro?](http://tutano.trampos.co/8228-infografico-qual-linguagem-de-programacao-devo-aprender-primeiro/)*
 
 * [Java](https://github.com/akullpp/awesome-java) - Interpretada orientada a objetos ([Wikipédia](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))).
 * [C](https://github.com/aleksandar-todorovic/awesome-c) - Compilada de propósito geral, estruturada, imperativa, procedural ([Wikipédia](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))).
@@ -45,6 +46,11 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 * [Scratch](http://www.scratchbrasil.net.br/) - Permite que qualquer um crie suas próprias histórias interativas, jogos e animações.
 * [Programaê](http://programae.org.br/) - Auxilia tanto alunos que querem aprender como professores que querem ensinar.
 * [SoloLearn](https://play.google.com/store/apps/dev?id=8092475488373003589) Aplicativo móvel para aprender a programar.
+
+## Livros
+*Livros de programação*
+
+* [Free programming books](https://github.com/vhf/free-programming-books) - Livros gratuitos ([pt_BR](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md)).
 
 ## Filmes
 *Filmes para inspirar a programar.*
@@ -67,4 +73,4 @@ Lista de referências incríveis para auxiliar no aprendizado de programação, 
 * GitHub: https://github.com/fernandojunior/programacao/
 * Free software: The MIT License
 
-Contribuições são bem-vindas!
+*Contribuições são bem-vindas! Mas não ultrapasse mais de uma linha em sua pull request :)*
