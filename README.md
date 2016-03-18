@@ -69,8 +69,8 @@ Lista impressionante de referências para ajudar no aprendizado de programação
 
 ## Créditos
 
-* Autores: [@fernandojunior](https://github.com/fernandojunior/),  [@leonardoads](https://github.com/leonardoads/) e [outros](https://github.com/fernandojunior/programacao/graphs/contributors)
+* Autores: [@fernandojunior](https://github.com/fernandojunior/) e [@leonardoads](https://github.com/leonardoads/)
 * GitHub: https://github.com/fernandojunior/programacao/
-* Free software: The MIT License
+* Free software: [The MIT License](/LICENSE)
 
-*Contribuições são bem-vindas! Mas não ultrapasse mais de uma linha em sua pull request :)*
+*Seja um [contribuidor](https://github.com/fernandojunior/programacao/graphs/contributors)! Mas não ultrapasse mais de uma linha em sua pull request :)*
