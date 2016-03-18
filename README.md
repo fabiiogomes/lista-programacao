@@ -26,7 +26,7 @@ Lista impressionante de referências para ajudar no aprendizado de programação
 * [Python para Zumbis](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA/) - Canal do YouTube com vídeo-aulas.
 
 ## Linguagens
-*[Listas impressionantes](https://github.com/sindresorhus/awesome) de [linguagens de programação](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o) conforme as [mais usadas](http://www.tiobe.com/tiobe_index) presentes em [Qual aprender primeiro?](http://tutano.trampos.co/8228-infografico-qual-linguagem-de-programacao-devo-aprender-primeiro/)*
+*[Listas impressionantes](https://github.com/sindresorhus/awesome) de [linguagens de programação](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o) conforme as [mais usadas](http://www.tiobe.com/tiobe_index) presentes em [Qual aprender primeiro?](https://raw.githubusercontent.com/fernandojunior/programacao/master/qual-linguagem-de-programacao-devo-aprender-primeiro.jpg)*
 
 * [Java](https://github.com/akullpp/awesome-java) - Interpretada orientada a objetos ([Wikipédia](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))).
 * [C](https://github.com/aleksandar-todorovic/awesome-c) - Compilada de propósito geral, estruturada, imperativa, procedural ([Wikipédia](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))).
